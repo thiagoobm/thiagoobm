@@ -3,7 +3,8 @@
 - Buscando aprender sempre;
 - Estudando utimamente tecnologias relacionadas ao front-end 
 <div>
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thiagoobm&show_icons=true&theme=onedark"/>  
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thiagoobm&show_icons=true&theme=onedark&text_color=FFFFFF"/>  
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagoobm&layout=compact&langs_count=7&theme=onedark&text_color=FFFFFF"/>
 </div><br>
 
 
