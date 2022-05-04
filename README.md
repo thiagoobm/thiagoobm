@@ -3,7 +3,7 @@
 - Buscando aprender sempre;
 - Estudando utimamente tecnologias relacionadas ao front-end 
 <div>
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thiagoobm&show_icons=true"/>  
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thiagoobm&show_icons=true&theme=onedark"/>  
 </div><br>
 
 
@@ -26,4 +26,4 @@
    <a href ="https://github.com/thiagoobm" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
   <a href ="mailto:thiagobmansano@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" ></a>
   <a href="https://www.linkedin.com/in/thiago-borges-mansano-5b67811a2/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" ></a> 
-  </div>
+ </div>
