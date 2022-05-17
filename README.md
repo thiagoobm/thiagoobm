@@ -2,10 +2,7 @@
 - Meu nome é Thiago Borges Mansano e eu tenho 20 anos de idade;
 - Buscando aprender sempre;
 - Estudando utimamente tecnologias relacionadas ao front-end 
-<div>
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thiagodevss&show_icons=true&theme=onedark&text_color=FFFFFF"/>  
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagodevss&layout=compact&langs_count=7&theme=onedark&text_color=FFFFFF"/>
-</div><br>
+<br>
 
 
 
