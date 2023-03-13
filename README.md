@@ -1,5 +1,5 @@
 ### Olá, eu sou o Thiago 👋
-- Meu nome é Thiago Borges Mansano e eu tenho 20 anos de idade;
+- Meu nome é Thiago Borges Mansano e eu tenho 21 anos de idade;
 - Buscando aprender sempre;
 - Estudando utimamente tecnologias relacionadas ao front-end 
 <br>
