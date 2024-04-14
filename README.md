@@ -33,4 +33,5 @@ Uma frase que eu adoro é "Deus está nos detalhes" de Ludwig Mies van der Rohe 
   <a href="https://www.linkedin.com/in/thiago-borges-mansano-5b67811a2/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" ></a> 
  </div>
 
+
 <img src="https://raw.githubusercontent.com/thiag-o/thiag-o/output/snake.svg" alt="Snake animation" />
