@@ -38,3 +38,7 @@ Uma frase que eu adoro é "Deus está nos detalhes" de Ludwig Mies van der Rohe 
   <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
   <img alt="github-snake" src="github-snake.svg" />
 </picture>
+
+<picture>
+<img src="https://raw.githubusercontent.com/thiag-o/thiag-o/output/snake.svg" alt="Snake animation" />
+</picture>
